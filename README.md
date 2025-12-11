@@ -45,7 +45,7 @@ Script for generating the figures shown in the report.
 
 ---
 
-### **`Models (1)/`**
+### **`Models (1)`**
 Module defining the Mi-CANN architecture and constitutive routines.
 
 - Neural network layout (layers, activations, parameters)  
