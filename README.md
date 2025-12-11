@@ -10,7 +10,7 @@ The code trains a **multi-physics inelastic Constitutive Artificial Neural Netwo
 
 The repository also includes scripts for generating all figures presented in the final report and presentation.
 
-Website link: *(add your link here if applicable)*
+Website link: *https://kalkidang1.github.io/ai_for_science/*
 
 ---
 
