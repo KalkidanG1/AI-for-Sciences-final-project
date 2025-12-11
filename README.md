@@ -26,7 +26,7 @@ Website link: *(add your link here if applicable)*
 
 ## **1. File Overview**
 
-### **`rubber_cann`**
+### **`Rubber_CANN`**
 Main entry point for running the Mi-CANN model on the rubber dataset.
 
 - Sets hyperparameters, training options, and directory paths  
@@ -36,7 +36,7 @@ Main entry point for running the Mi-CANN model on the rubber dataset.
 
 ---
 
-### **`plotting_rubber`**
+### **`plottingRubber`**
 Script for generating the figures shown in the report.
 
 - Loads saved model predictions and raw experimental data  
@@ -45,7 +45,7 @@ Script for generating the figures shown in the report.
 
 ---
 
-### **`models/`**
+### **`Models (1)/`**
 Module defining the Mi-CANN architecture and constitutive routines.
 
 - Neural network layout (layers, activations, parameters)  
@@ -54,7 +54,7 @@ Module defining the Mi-CANN architecture and constitutive routines.
 
 ---
 
-### **`continuummechhelper`**
+### **`ContinuumMechHelper`**
 Continuum mechanics helper utilities.
 
 - Loads and formats experimental data  
